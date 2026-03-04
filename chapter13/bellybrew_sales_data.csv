@@ -1,0 +1,73 @@
+Region,Product,WholesalePricePerCarton,CartonsSold,TotalSalesGBP
+London,Kombucha Ginger Zest,18.71,418,7820.78
+London,Kombucha Berry Bliss,20.73,375,7773.75
+London,Kombucha Citrus Splash,24.04,444,10673.76
+London,Kefir Vanilla Smooth,21.77,495,10776.15
+London,Kefir Strawberry Delight,28.78,222,6389.16
+London,Kefir Mango Medley,23.83,498,11867.34
+London,Yoghurt Smoothie Blueberry,28.73,142,4079.66
+London,Yoghurt Smoothie Banana Boost,26.6,111,2952.6
+London,Yoghurt Smoothie Tropical Mix,27.15,488,13249.2
+Manchester,Kombucha Ginger Zest,27.73,335,9289.55
+Manchester,Kombucha Berry Bliss,22.93,257,5893.01
+Manchester,Kombucha Citrus Splash,28.85,93,2683.05
+Manchester,Kefir Vanilla Smooth,21.75,372,8091.0
+Manchester,Kefir Strawberry Delight,25.73,380,9777.4
+Manchester,Kefir Mango Medley,27.08,177,4793.16
+Manchester,Yoghurt Smoothie Blueberry,21.19,77,1631.63
+Manchester,Yoghurt Smoothie Banana Boost,22.28,159,3542.52
+Manchester,Yoghurt Smoothie Tropical Mix,24.11,176,4243.36
+Birmingham,Kombucha Ginger Zest,23.21,104,2413.84
+Birmingham,Kombucha Berry Bliss,21.61,215,4646.15
+Birmingham,Kombucha Citrus Splash,19.0,216,4104.0
+Birmingham,Kefir Vanilla Smooth,20.98,372,7804.56
+Birmingham,Kefir Strawberry Delight,25.1,383,9613.3
+Birmingham,Kefir Mango Medley,25.16,326,8202.16
+Birmingham,Yoghurt Smoothie Blueberry,24.07,478,11505.46
+Birmingham,Yoghurt Smoothie Banana Boost,26.49,500,13245.0
+Birmingham,Yoghurt Smoothie Tropical Mix,25.04,285,7136.4
+Liverpool,Kombucha Ginger Zest,22.85,450,10282.5
+Liverpool,Kombucha Berry Bliss,23.13,384,8881.92
+Liverpool,Kombucha Citrus Splash,20.03,144,2884.32
+Liverpool,Kefir Vanilla Smooth,28.3,111,3141.3
+Liverpool,Kefir Strawberry Delight,28.11,273,7674.03
+Liverpool,Kefir Mango Medley,23.83,142,3383.86
+Liverpool,Yoghurt Smoothie Blueberry,21.41,129,2761.89
+Liverpool,Yoghurt Smoothie Banana Boost,28.6,110,3146.0
+Liverpool,Yoghurt Smoothie Tropical Mix,20.99,128,2686.72
+Glasgow,Kombucha Ginger Zest,29.51,289,8528.39
+Glasgow,Kombucha Berry Bliss,23.57,382,9003.74
+Glasgow,Kombucha Citrus Splash,24.45,262,6405.9
+Glasgow,Kefir Vanilla Smooth,23.63,447,10562.61
+Glasgow,Kefir Strawberry Delight,25.98,432,11223.36
+Glasgow,Kefir Mango Medley,18.43,314,5787.02
+Glasgow,Yoghurt Smoothie Blueberry,21.56,218,4700.08
+Glasgow,Yoghurt Smoothie Banana Boost,21.17,483,10225.11
+Glasgow,Yoghurt Smoothie Tropical Mix,21.51,116,2495.16
+Edinburgh,Kombucha Ginger Zest,28.98,304,8809.92
+Edinburgh,Kombucha Berry Bliss,22.12,247,5463.64
+Edinburgh,Kombucha Citrus Splash,19.98,210,4195.8
+Edinburgh,Kefir Vanilla Smooth,20.35,137,2787.95
+Edinburgh,Kefir Strawberry Delight,25.6,262,6707.2
+Edinburgh,Kefir Mango Medley,20.97,230,4823.1
+Edinburgh,Yoghurt Smoothie Blueberry,29.8,329,9804.2
+Edinburgh,Yoghurt Smoothie Banana Boost,28.76,93,2674.68
+Edinburgh,Yoghurt Smoothie Tropical Mix,19.55,254,4965.7
+Southampton,Kombucha Ginger Zest,24.38,122,2974.36
+Southampton,Kombucha Berry Bliss,18.81,290,5454.9
+Southampton,Kombucha Citrus Splash,23.16,452,10468.32
+Southampton,Kefir Vanilla Smooth,25.92,330,8553.6
+Southampton,Kefir Strawberry Delight,24.27,159,3858.93
+Southampton,Kefir Mango Medley,24.82,388,9630.16
+Southampton,Yoghurt Smoothie Blueberry,29.36,463,13593.68
+Southampton,Yoghurt Smoothie Banana Boost,23.93,187,4474.91
+Southampton,Yoghurt Smoothie Tropical Mix,29.91,288,8614.08
+Oxford,Kombucha Ginger Zest,28.75,51,1466.25
+Oxford,Kombucha Berry Bliss,20.31,220,4468.2
+Oxford,Kombucha Citrus Splash,29.56,349,10316.44
+Oxford,Kefir Vanilla Smooth,25.94,387,10038.78
+Oxford,Kefir Strawberry Delight,21.9,233,5102.7
+Oxford,Kefir Mango Medley,21.0,207,4347.0
+Oxford,Yoghurt Smoothie Blueberry,29.32,296,8678.72
+Oxford,Yoghurt Smoothie Banana Boost,27.03,378,10217.34
+Oxford,Yoghurt Smoothie Tropical Mix,28.96,245,7095.2
