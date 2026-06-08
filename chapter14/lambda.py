@@ -19,7 +19,7 @@ def lambda_handler(event, context):
         Media={
             'MediaFileUri': media_uri
         },
-        OutputBucketName="bellybrew-transcripts",
+        OutputBucketName="[Belly Brew Output Bucket]",
         OutputKey=f"output/{job_name}.json"
     )
 

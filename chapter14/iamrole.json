@@ -19,7 +19,7 @@
                 "s3:PutObject"
             ],
             "Resource": [
-                "arn:aws:s3:::[S3 RECORDINGS Bucket]/*",
+                "arn:aws:s3:::[S3 RECORDINGS BUCKET]/*",
                 "arn:aws:s3:::[S3 TRANSCRIPT BUCKET]/*"
             ]
         },
