@@ -6,8 +6,8 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       # Use an Amazon Linux 2023 AMI us-east-1 Region (update AMI ID per region!)
-      ImageId: ami-0532be01f26a3de55
-      InstanceType: t2.micro   # Define Instance Type
+      ImageId: [PROVIDE REGIONAL SPECIFIC AMI ID]
+      InstanceType: t3.micro   # Define Instance Type
       # By not specifying a SubnetId, EC2 will launch in the default subnet
       # By not specifying the Security Group, EC2 will launch with the default Security Group
       Tags:
