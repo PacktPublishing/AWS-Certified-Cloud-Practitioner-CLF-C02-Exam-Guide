@@ -1,0 +1,11 @@
+EmployeeID,FullName,Email,Phone,NationalInsuranceNumber,DateOfBirth,Address,Salary
+1001,Alice Morgan,alice.morgan@bellybrew.co.uk,07700900123,QQ123456C,1988-03-12,12 Hop Street London,42000
+1002,James Patel,james.patel@bellybrew.co.uk,07700900456,AB654321D,1990-07-25,55 Barley Ave Manchester,45000
+1003,Sarah Khan,sarah.khan@bellybrew.co.uk,07700900789,ZX987654A,1985-11-02,89 Malt Road Birmingham,47000
+1004,Daniel Smith,daniel.smith@bellybrew.co.uk,07700900999,LM112233B,1992-01-18,23 Brew Lane Leeds,41000
+1005,Rebecca Turner,rebecca.turner@bellybrew.co.uk,07700900222,JK334455C,1987-06-09,7 Yeast Close Bristol,46000
+1006,Michael O'Neil,michael.oneil@bellybrew.co.uk,07700900333,TY556677D,1983-09-30,101 Cask Way Liverpool,52000
+1007,Emma Davies,emma.davies@bellybrew.co.uk,07700900444,GH778899A,1995-04-14,45 Ferment Road Cardiff,39000
+1008,Oliver Brown,oliver.brown@bellybrew.co.uk,07700900555,PL991122B,1989-12-21,78 Barrel Street Nottingham,44000
+1009,Chloe Wilson,chloe.wilson@bellybrew.co.uk,07700900666,VC223344C,1993-08-05,9 Hops Lane Sheffield,40500
+1010,Raj Mehta,raj.mehta@bellybrew.co.uk,07700900777,DF445566D,1986-02-17,33 Brewery Road Leicester,48000
